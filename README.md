@@ -1,5 +1,5 @@
-# 💫 About Me:
-Student of Applied Mathematics and Computer Science at Kosygin University 🚀
+#  About Me:
+Student of Applied Mathematics and Computer Science at Kosygin University 
 
 
 # 💻 Tech Stack:
