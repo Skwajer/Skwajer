@@ -1,4 +1,4 @@
-#  About Me:
+# My name is German
 Student of Applied Mathematics and Computer Science at Kosygin University 
 
 
